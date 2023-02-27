@@ -1,8 +1,9 @@
-baseURL = "https://quartz.jzhao.xyz/"
+baseURL = "https://notes.arashfarr.com/"
 languageCode = "en-us"
 relativeURLs = false
 disablePathToLower = true
 ignoreFiles = [
+    "/content/Templates/*",
     "/content/templates/*",
     "/content/private/*",
 ]
